@@ -38,7 +38,7 @@ To Visit App:
 ## Reflection
 
 ### What was the context for this project? 
-	- I wanted to do more web development therefore I thought this would be a good small project to learn web development funamentals such as HTML, css, javascript, and some server side development
+    * I wanted to do more web development therefore I thought this would be a good small project to learn web development funamentals such as HTML, css, javascript, and some server side development
 
 ### Learning Outcomes?
 	1. Forced me to think about design details and practice css tools such as flexbox.
