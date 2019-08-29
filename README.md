@@ -41,11 +41,11 @@ To Visit App:
 * I wanted to do more web development therefore I thought this would be a good small project to learn web development funamentals such as HTML, css, javascript, and some server side development
 
 ### Learning Outcomes?
-	1. Forced me to think about design details and practice css tools such as flexbox.
-	2. Helped me better understand the server-client architecture
-	3. Learned how to work with api's and transfering data in json format. Learning how to use fetch with api's
-	4. Learned about asynchronous concepts such as promises, .then, async functions, await keyword
-	5. Learned how to create end points in express and use middleware to serve files and deal with json objects
+1. Forced me to think about design details and practice css tools such as flexbox.
+2. Helped me better understand the server-client architecture
+3. Learned how to work with api's and transfering data in json format. Learning how to use fetch with api's
+4. Learned about asynchronous concepts such as promises, .then, async functions, await keyword
+5. Learned how to create end points in express and use middleware to serve files and deal with json objects
 ### What were some unexpected obstacles?
 * I had to follow youtube tutorials to understand how to use api's and express, which slowed me down
 * Small errors such as not waiting to load the html before doing DOM manipulation caused time bugs
