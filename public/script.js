@@ -12,11 +12,11 @@ window.addEventListener('load',()=>{
             const response = await fetch(api_url);
             const json = await response.json();
             console.log(json);
-            weather = json.weather;
-            aq = json.aq;
+            const weather = json.weather;
+            const aq = json.aq;
             //update html
-            const location = document.querySelector('.city')
-            location.textContent = aq.results[0].location
+            const city = document.querySelector('.city')
+            city.textContent = aq.results[0].location
     
     
             const current_temperature = document.querySelector('.temperature-degree')
