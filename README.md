@@ -47,7 +47,7 @@ To Visit App:
 	4. Learned about asynchronous concepts such as promises, .then, async functions, await keyword
 	5. Learned how to create end points in express and use middleware to serve files and deal with json objects
 ### What were some unexpected obstacles?
-	* I had to follow youtube tutorials to understand how to use api's and express, which slowed me down
+	*	I had to follow youtube tutorials to understand how to use api's and express, which slowed me down
 	* Small errors such as not waiting to load the html before doing DOM manipulation caused time bugs
 	* Inexpreince with Heroku deployment and github synchronization caused errors when deploying
  
