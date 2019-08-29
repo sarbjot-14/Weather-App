@@ -4,18 +4,7 @@ const fetch = require('node-fetch')
 app.use(express.static('public'))
 app.use(express.json({limit: '1mb'})); 
 
-/*
-app.post('/coords', (req, res) => {
-    console.log("req received")
-    console.log(req.body);
-    const data = req.body
-    const timestamp = Date.now();
-    data.timestamp = timestamp;
-    data.status = 'success'
-    res.json(data)
 
-});
-*/
 
 app.get('/weather/:latlong',async (req, res) => {
     const latlon = req.params.latlong.split(',')

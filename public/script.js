@@ -32,21 +32,6 @@ window.addEventListener('load',()=>{
 
             setIcons(weather.currently.icon, document.querySelector('.icon'));
     
-            /*
-            // send coords to server and get weather in return
-            const data = {latty, longy};
-            const options = {
-                method: 'POST',
-                headers:{
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify(data)
-            };
-            
-            const serverResp  = await fetch('/coords',options )
-            const serverData = await serverResp.json();
-            console.log(serverData);
-            */
         });
     }
     else{
