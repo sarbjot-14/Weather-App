@@ -1,6 +1,4 @@
-# Project Name & Pitch
-
-*Weather App*
+# Weather App
 
 An application that shows your current weather status as well as air quality using JavaScript, CSS, HTML, Node.Js, and Express.
 
